@@ -1,7 +1,3 @@
-## Tech
-
-- 98 undocumented PHP files
-
 ## Flowchart
 
 ```mermaid
@@ -11,3 +7,8 @@ flowchart TD
     C --> D["Fix HTML & Navigation Links"]
     D --> E["Resolve Issue"]
 ```
+
+
+## Tech
+
+- PHP
