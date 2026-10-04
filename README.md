@@ -1,8 +1,6 @@
-## Tech Stack
+## Tech
 
-- PHP
-- HTML
-
+- 98 undocumented PHP files
 
 ## Flowchart
 
