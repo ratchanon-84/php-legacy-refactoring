@@ -1,6 +1,6 @@
 ## Overview
 
-Resolved HTTP 404 errors in a legacy PHP application by reverse-engineering undocumented code and fixing HTML structures and navigation links.
+Resolved HTTP 404 errors and refactored 98 legacy PHP files to support ITA compliance by reverse-engineering undocumented code and fixing HTML structures and navigation links.
 
 ## Troubleshooting Workflow
 
