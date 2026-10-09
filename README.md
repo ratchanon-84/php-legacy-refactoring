@@ -1,14 +1,18 @@
-## Flowchart
+## Overview
+
+Resolved HTTP 404 errors in a legacy PHP application by reverse-engineering undocumented code and fixing HTML structures and navigation links.
+
+## Troubleshooting Workflow
 
 ```mermaid
 flowchart TD
-    A["Error 404"] --> B["Identify Cause"]
-    B --> C["Reverse-engineer PHP"]
-    C --> D["Fix HTML & Navigation Links"]
-    D --> E["Resolve Issue"]
+    A["HTTP 404 Error"] --> B["Identify Root Cause"]
+    B --> C["Reverse-engineer Legacy PHP Code"]
+    C --> D["Fix HTML Structures & Navigation Links"]
+    D --> E["Verify Resolution"]
 ```
 
+## Tech Stack
 
-## Tech
-
-- PHP
+* **Backend:** PHP
+* **Web:** HTML
