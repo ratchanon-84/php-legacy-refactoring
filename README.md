@@ -14,5 +14,5 @@ flowchart TD
 
 ## Tech Stack
 
-* **Backend:** PHP
-* **Web:** HTML
+* PHP
+* HTML
